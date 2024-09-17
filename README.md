@@ -1,5 +1,4 @@
 # SearchEngine
-# Search Engine Project - README
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
